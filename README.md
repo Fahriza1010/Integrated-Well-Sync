@@ -40,19 +40,14 @@ Enhancements include:
 
 ---
 
-## ⚖️ License
+## ⚖️ License Compliance
 
-This project is distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
+This project includes modified code from:
 
-This is required because part of the codebase is derived from GPL-licensed software:
+- https://github.com/daeIy/PyNPEFA (GNU GPL v3)
+- https://github.com/deepikaverma-geo/dtw-based-well-log-correlation (MIT)
 
-* PyNPEFA (GPL v3)
-
-Other components include MIT-licensed code:
-
-* dtw-based-well-log-correlation (MIT License)
-
-All combined work complies with GPL v3 distribution requirements.
+Modifications and integrations have been performed to combine multiple correlation methods into a unified framework.
 
 ---
 
