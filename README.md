@@ -1,4 +1,4 @@
-# 🧠 Geoscience Stratigraphic Correlation Tool
+# 🧠 INTEGRATED WELL SYNC
 
 ## 📌 Overview
 This project presents a geoscience software developed to correlate stratigraphic layers by integrating multiple advanced computational and data-driven approaches, including:
