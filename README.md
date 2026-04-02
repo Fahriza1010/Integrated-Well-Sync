@@ -1,7 +1,6 @@
 # 🧠 Geoscience Stratigraphic Correlation Tool
 
 ## 📌 Overview
-
 This project presents a geoscience software developed to correlate stratigraphic layers by integrating multiple advanced computational and data-driven approaches, including:
 
 * INPEFA–DTW (Integrated Prediction Error Filter Analysis with Dynamic Time Warping)
@@ -10,7 +9,6 @@ This project presents a geoscience software developed to correlate stratigraphic
 * Expert geological interpretation
 
 The system is optimized for both CPU and GPU (CUDA) execution to enhance computational efficiency. It also features an interactive graphical user interface (GUI) that supports end-to-end workflows, confidence visualization, and exportable correlation results.
-
 ---
 
 ## 🚀 Features
