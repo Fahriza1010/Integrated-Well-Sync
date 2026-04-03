@@ -75,6 +75,12 @@ https://github.com/deepikaverma-geo/dtw-based-well-log-correlation
 
 Boyd, S., et al. L1 Trend Filtering.
 https://web.stanford.edu/~boyd/papers/l1_trend_filter.html
+
+Kang, Q. & Lu, L., 2020. Application of random forest algorithm in classification of logging lithology. Global Geology, 39(2), pp.398–405. Available at: https://doi.org/10.3969/j.issn.1004-5589.2020.02.014 
+
+Ye, S.-J. & Rabiller, P., 2000. A new tool for electro-facies analysis: Multi-resolution graph-based clustering. In SPWLA 41st Annual Logging Symposium. Society of Petrophysicists and Well Log Analysts, pp.SPWLA-2000-PP. Available at: https://onepetro.org/SPWLAALS/proceedings-pdf/SPWLA-2000/SPWLA-2000/SPWLA-2000-PP/1914350/spwla-2000-pp.pdf
+
+
 ```
 
 ---
