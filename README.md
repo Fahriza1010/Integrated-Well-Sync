@@ -80,7 +80,6 @@ Kang, Q. & Lu, L., 2020. Application of random forest algorithm in classificatio
 
 Ye, S.-J. & Rabiller, P., 2000. A new tool for electro-facies analysis: Multi-resolution graph-based clustering. In SPWLA 41st Annual Logging Symposium. Society of Petrophysicists and Well Log Analysts, pp.SPWLA-2000-PP. Available at: https://onepetro.org/SPWLAALS/proceedings-pdf/SPWLA-2000/SPWLA-2000/SPWLA-2000-PP/1914350/spwla-2000-pp.pdf
 
-
 ```
 
 ---
@@ -106,6 +105,6 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📬 Contact
 
-For academic collaboration or inquiries, please reach out via GitHub.
+For academic collaboration or inquiries, please reach out via GitHub or LinkedIn
 
  
